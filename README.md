@@ -34,4 +34,4 @@ O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar 
 
 Feito com Rocketseat ♥ 
 
-[Link do repositório](https://joziborges.github.io/nlw-heat-origin-/)
+[Link page do repositório](https://joziborges.github.io/nlw-heat-origin-/)
